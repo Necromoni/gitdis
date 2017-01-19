@@ -5,9 +5,10 @@ Currently only works for GitLab
 
 ## Installing
 * 1) Install Node.js 6.0.0 or newer
-* 2) Download or clone
-* 3) Edit the config.json file with the appropriate entries
-* 4) Perform the following command within the folder where cloned or downloaded
+* 2) Download or clone the repository
+* 3) [Create a Discord App](https://discordapp.com/developers/applications/me) and user
+* 4) Edit the config.json file with the appropriate entries
+* 5) Perform the following command within the folder where cloned or downloaded
 ```
 node main.js
 ```
