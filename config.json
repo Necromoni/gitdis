@@ -1,0 +1,21 @@
+{
+  "HOST": "0.0.0.0",
+  "PORT": "80",
+  "GUILD_TO_MAIN_CHANNEL": {
+    "ServerName": "Text Channel Name"
+  },
+  "GUILD_TO_PRIVATE_CHANNEL": {
+    "ServerName": "Private Text Channel Name"
+  },
+  "PROJECT_PATH": "PROJECT_PATH_HERE",
+  "DEFAULT_REPOSITORY_ID": "1",
+  "BOT_NAME": "GitDis",
+  "BOT_IDLE_RESPONSES": ["you called?"],
+  "ADMIN_ROLE_NAME": "Bot Commander",
+  "PRIVATE_NAME": "Private",
+
+  "WEBHOOKS_TOKEN": "YOUR_WEBHOOK_TOKEN",
+  "ACCESS_TOKEN": "YOUR_GITLAB_ACCESS_TOKEN",
+  "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN",
+  "CLIENT_ID": "BOT_CLIENT_ID_HERE"
+}
